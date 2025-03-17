@@ -1,4 +1,3 @@
-
 # Sorteo de Amigos
 
 Este proyecto es una aplicación simple que permite a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo para seleccionar un amigo al azar. El objetivo principal de este desafío es fortalecer las habilidades en lógica de programación y manipulación del DOM utilizando JavaScript.
